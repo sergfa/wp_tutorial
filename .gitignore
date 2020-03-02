@@ -1,0 +1,22 @@
+
+7
+8
+9
+10
+11
+12
+13
+14
+15
+# Exclude these files from the git repo
+wp-content/backup/*
+wp-content/cache/*
+wp-content/upgrade/*
+sitemap.*
+wp-config.php
+ 
+# Hidden system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
+ 
